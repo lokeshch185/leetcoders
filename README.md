@@ -1,6 +1,6 @@
 # Leetcoders
 
-### 🔗Live - https://www.leetcoders.xyz/
+### 🔗Live - https://www.leetcoders.webier.in/
 
 > **🚨 Looking for Maintainers!**  
 > We are actively seeking maintainers to help grow and improve LeetCoders. If you're passionate about coding community, development, and open source, we'd love to have you on board! Please reach out through our [Discussions](https://github.com/lokeshch185/leetcoders/discussions) or connect with me on [Linkedin](https://www.linkedin.com/in/lokeshch18/).
